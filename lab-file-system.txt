@@ -436,7 +436,7 @@ lemon
 Use only one command to make all of these new directories.  Write what command you used below:
 
 ----------
-
+mkdir pineapple/orange/strawbery/lemon
 
 
 
@@ -452,7 +452,7 @@ Use only one command to make all of these new directories.  Write what command y
 Write the command you used to create the directory below:
 
 ----------
-
+mkdir aardvark
 
 
 
@@ -468,7 +468,7 @@ Write the command you used to create the directory below:
 What is the modified date of the aardvark directory?
 
 ----------
-
+Feb 6 12:48
 
 
 
@@ -492,7 +492,7 @@ What is the modified date of the aardvark directory?
 What command did you use?
 
 ----------
-
+mkdir foo/bar/baz
 
 
 
@@ -508,7 +508,7 @@ What command did you use?
 What command did you use?
 
 ----------
-
+cd foo/bar/baz
 
 
 
@@ -524,7 +524,7 @@ What command did you use?
 What command did you use?
 
 ----------
-
+cd ../..
 
 
 
@@ -534,6 +534,7 @@ What command did you use?
 24. What command is used to delete empty directories?
 
 ----------
+rmdir
 
 
 
@@ -546,7 +547,7 @@ What command did you use?
 25. What command is used to print out your current working directory?
 
 ----------
-
+ls 
 
 
 
@@ -558,7 +559,7 @@ What command did you use?
 26. What flag do I pass to ls to print out all files?
 
 ----------
-
+-a
 
 
 
@@ -570,7 +571,7 @@ What command did you use?
 27. What's the shortcut for home directory?
 
 ----------
-
+cd ~
 
 
 
@@ -582,7 +583,7 @@ What command did you use?
 28. What's a pathname?
 
 ----------
-
+Pathname is the location of the directory you are in
 
 
 
@@ -594,7 +595,7 @@ What command did you use?
 29. What's a directory?
 
 ----------
-
+is basically a folder 
 
 
 
@@ -606,3 +607,4 @@ What command did you use?
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 
 ----------
+/Users/pungki1232/Downloads
